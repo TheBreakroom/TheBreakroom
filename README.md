@@ -9,6 +9,9 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 ### __**Login Details**__
 - thebreakroom.ddns.net
 
+### __**Discord login**__
+[The BreakRoom](https://discord.gg/mzPrnEQFrh)
+
 ### __**Expansions**__
 - RotZ / CoP / ToAU
 
