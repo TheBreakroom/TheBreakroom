@@ -43,7 +43,8 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 - No additional trusts will be added.
 - You will have all 6 slots
 - you can form a party with players or use trusts, not both. 
-- trusts will automatically level up when you do. 
+- trusts will automatically level up when you do.
+- the !trust command will form your party for you.
 
 ### __**Movement**__
 - Homepoint warp system is turned on
