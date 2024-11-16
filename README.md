@@ -57,6 +57,13 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 ### __**PVP**__
 - Using the !pvp and !redteam !blueteam commands, players can go to the sinister reign arena and beat each other to death.
 
+### __**Other Pages**__
+[Server Commands](https://github.com/TheBreakroom/TheBreakroom/blob/LandingPage/ServerCommands.md)
+<br>
+[Custom NPCs](https://github.com/TheBreakroom/TheBreakroom/blob/LandingPage/CustomNPCs.md)
+
+
+
 <!---
 TheBreakroom/TheBreakroom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
