@@ -7,7 +7,9 @@ __**👋 Welcome to The Breakroom**__
 
 
 
-__**This is the website dedicated to content on the Final Fantasy XI private Server "The Breakroom"**__
+__**This is the website dedicated to content on the Final Fantasy XI private Server "The Breakroom"**__<br>
+>This server's primary goal is to provide an era based environment with specific quality of life adjustments to accommodate both the hardcore team up players, as well as the    players that prefer to use trusts at be laid back.<br>
+>Notorious Monsters have been significantly boosted to create a challenging combat system, while being offset by an endgame "Rune Enhancement" system to extend player efficiency beyond the 75 level cap.
 
 ### __**SERVER DETAILS**__
 
@@ -51,10 +53,8 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 - Combat skill ups are 5x multiplier
 - Craft Skill ups are a 9x multiplier
 
-### __**Future Vision**__
-- Specialty engame augmentation
-- Custom Monster Hunter system
-- PVP battles
+### __**PVP**__
+- Using the !pvp and !redteam !blueteam commands, players can go to the sinister reign arena and beat each other to death.
 
 <!---
 TheBreakroom/TheBreakroom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
