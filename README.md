@@ -42,6 +42,11 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 - All Jobs can Widescan
 - All players have auto reraise always.
 
+### 👾 __**Monsters**__ 
+- NMs have had their HP and Stats boosted 5x
+- Regular Mobs have had their HP and stats boosted x2
+- Custom NMs and Scaled end game combat will be added for additional rewards.
+
 ### 🤝 __**Trusts**__
 - You will have all 5 slots
 - you can form a party with players or use trusts, not both. 
