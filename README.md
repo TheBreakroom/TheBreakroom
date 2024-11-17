@@ -29,12 +29,14 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 - Auto stocked weapons and gear.
 - You will have to craft or buy expendable items
 - Only automatically buys back gear it sells.
-- No limits on listings.
 
 ### ⚔ __**Combat**__
 - Normal EXP rates
 - Exp Chains work on any mob that gives EXP
 - Exp chain timers have been significantly extended
+- A stat and EXP boost is awarded based on your Rank<br>
+    Rank 2  = +2  all stats and 20  exp bonus per kill<br>
+    Rank 10 = +10 all stats and 100 exp bonus per kill
 - No EXP loss on death
 - Level sync and gear scaling available
 - All Jobs can Widescan
