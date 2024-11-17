@@ -33,18 +33,17 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 
 ### ⚔ __**Combat**__
 - Normal EXP rates
+- Exp Chains work on any mob that gives EXP
+- Exp chain timers have been significantly extended
 - No EXP loss on death
 - Level sync and gear scaling available
 - All Jobs can Widescan
 - All players have auto reraise always.
 
 ### 🤝 __**Trusts**__
-- You will start with a basic set of trusts. 
-- No additional trusts will be added.
-- You will have all 6 slots
+- You will have all 5 slots
 - you can form a party with players or use trusts, not both. 
-- trusts will automatically level up when you do.
-- the !trust command will form your party for you.
+- the !trust command will form your party for you. (the party set does not change)
 
 ### 🏃‍♂️ __**Movement**__
 - Homepoint warp system is turned on
