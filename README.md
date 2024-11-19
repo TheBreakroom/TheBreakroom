@@ -28,7 +28,7 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 ### 💸 __**Auction House**__
 - Auto stocked weapons and gear.
 - You will have to craft or buy expendable items
-- Only automatically buys back gear it sells.
+- Automatically buys back gear (instantaneously).
 
 ### ⚔ __**Combat**__
 - Normal EXP rates
@@ -50,7 +50,7 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 ### 🤝 __**Trusts**__
 - You will have all 5 slots
 - you can form a party with players or use trusts, not both. 
-- the !trust command will form your party for you. (the party set does not change)
+- the !trust command will form your party for you.
 
 ### 🏃‍♂️ __**Movement**__
 - Homepoint warp system is turned on
