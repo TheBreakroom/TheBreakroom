@@ -1,10 +1,25 @@
 ## Server Commands
 
-- !home / !homepoint / !warp - Sends a player to homepoint.
-- !trust - loads all 5 trusts simultaneously
-- !signet - Gives the player signet/sanction/ionis
-- !chocobo - Use a chocobo anywhere, even in town.
-- !pvp - transports you to the Sinister Reign arena for pvp combat
-- !redteam - sets the players allegiance to Sandoria for pvp
-- !blueteam - sets the players allegiance to Bastok for pvp
-- !breakroom - transports the player to the server breakroom
+- **!home / !homepoint / !warp**
+  - Sends a player to theirhomepoint.
+- **!trust**
+  - loads all 5 trusts simultaneously
+  - Trion / Apururu / Koru-Moru / Shantotto II / Ayame
+- **!signet**
+   - Gives the player signet/sanction/ionis
+   - it gives the effect based on the region you are in.
+- **!chocobo**
+  - Use a chocobo anywhere, even in town.
+- **!pvp**
+   - transports you to the Sinister Reign arena for pvp combat
+- **!redteam**
+   - sets the players allegiance to Sandoria for pvp
+- **!blueteam**
+   - sets the players allegiance to Bastok for pvp
+- **!breakroom**
+   - transports the player to the server breakroom
+- **!dedication**
+   - adds a 50% dedication effect (toss those exp rings!)
+   - *I made this as a toggle so people can choose to use it or not.*
+- **!reloadpos**
+   - this command will rezone your character (as long as you dont have enmity)
