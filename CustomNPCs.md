@@ -20,7 +20,8 @@
 - Runes
   - This chest is full of Maze Runes that can be purchased for enhancements.
 - Rune Enhance
-  - Once you have acquired 30 merit points and a maze rune, you can trade them to this NPC and receive permanent stat enhancements.
+  - Once you have acquired 30 merit points and a maze rune, you can trade them to this NPC and receive permanent stat enhancements to all 75 level jobs.
+  - This extends your base stat efficiencies beyond the level cap.
   - See the below table for details.<br>
 ![image](https://github.com/user-attachments/assets/218475c6-0d08-41db-b7ab-ef10dc718c48)
 
