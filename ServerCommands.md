@@ -19,7 +19,7 @@
 - **!breakroom**
    - transports the player to the server breakroom
 - **!dedication**
-   - adds a 50% dedication effect (toss those exp rings!)
+   - adds a 75% dedication effect for 8 hours. (toss those exp rings!)
    - *I made this as a toggle so people can choose to use it or not.*
 - **!reloadpos**
    - this command will rezone your character (as long as you dont have enmity)
