@@ -3,7 +3,7 @@
 - **!home / !homepoint / !warp**
   - Sends a player to theirhomepoint.
 - **!trust**
-  - loads all 5 trusts simultaneously
+  - loads all 5 trusts simultaneously or just Apururu if you are in a Player party.
   - Trion / Apururu / Koru-Moru / Shantotto II / Ayame
 - **!signet**
    - Gives the player signet/sanction/ionis
