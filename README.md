@@ -49,7 +49,7 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 
 ### 🤝 __**Trusts**__
 - You will have all 5 slots
-- you can form a party with players or use trusts, not both. 
+- you can form a party with players and call just Apururu or use 5 trusts solo. 
 - the !trust command will form your party for you.
 
 ### 🏃‍♂️ __**Movement**__
