@@ -23,3 +23,5 @@
    - *I made this as a toggle so people can choose to use it or not.*
 - **!reloadpos**
    - this command will rezone your character (as long as you dont have enmity)
+- **!getstats**
+   - This Command will give you a print out of player/trust/mob/pet stats.
