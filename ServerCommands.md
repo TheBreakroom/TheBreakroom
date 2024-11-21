@@ -9,7 +9,8 @@
    - Gives the player signet/sanction/ionis
    - it gives the effect based on the region you are in.
 - **!chocobo**
-  - Use a chocobo anywhere, even in town.
+  - Use a mount anywhere, even in town.
+  - Randomly chooses one of the 36 available mounts.
 - **!pvp**
    - transports you to the Sinister Reign arena for pvp combat
 - **!redteam**
