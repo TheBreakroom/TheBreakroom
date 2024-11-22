@@ -56,4 +56,14 @@
 - Amazon
   - This guy is your Auction house access in the breakroom. <br>
    ![image](https://github.com/user-attachments/assets/c5ea5b31-979f-4f6d-bce4-29cf0e56576a)
+- Crystals
+  - Standard crystal shop with variable prices.
+     ![crystal](https://github.com/user-attachments/assets/d3450aeb-56c2-4a30-bfd8-3de9a3852ef2)
+- Magical Merch
+  - Shop for all your magical needs.
+
+  | Page | Spell |
+  | ---- | ----- |
+  | 1    | 
+
 
