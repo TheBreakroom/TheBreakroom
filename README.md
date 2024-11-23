@@ -41,6 +41,7 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 - Level sync and gear scaling available
 - All Jobs can Widescan
 - All players have auto reraise always.
+- Specials are reduced to 30 minute cooldowns.
 
 ### 👾 __**Monsters**__ 
 - NMs have had their HP and Stats boosted 5x
