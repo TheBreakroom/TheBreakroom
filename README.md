@@ -47,6 +47,7 @@ __**This is the website dedicated to content on the Final Fantasy XI private Ser
 - NMs have had their HP and Stats boosted 5x
 - Regular Mobs have had their HP and stats boosted x2
 - Custom NMs and Scaled end game combat will be added for additional rewards.
+- Placeholder spawns are 100% activated (leaping lizzy anxiety no more!)
 
 ### 🤝 __**Trusts**__
 - You will have all 5 slots
