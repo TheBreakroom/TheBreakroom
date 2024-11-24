@@ -20,8 +20,8 @@
 - Runes
   - This chest is full of Maze Runes that can be purchased for enhancements.
 - Rune Enhance
-  - Once you have acquired 30 merit points and a maze rune, you can trade them to this NPC and receive permanent stat enhancements to all 75 level jobs.
-  - This extends your base stat efficiencies beyond the level cap.
+  - Once you have acquired 30 merit points and a maze rune, you can trade them to this NPC and receive permanent stat enhancements to all jobs scaled with level.
+  - This extends your base stat efficiencies beyond base stats
   - See the below table for details.<br>
 ![image](https://github.com/user-attachments/assets/218475c6-0d08-41db-b7ab-ef10dc718c48)
 
@@ -50,7 +50,22 @@
     | Maze Rune 020 | ACC | +10 | 
     | Maze Rune 021 | RATT | +10 |
     <br>
-
+    
+    - level Scaling:<br>
+    
+    | Level | Percent <br>(by whole numbers) | Example <br>(2 points) | Example <br>(100 points) |
+    | ----- | ------------------------------ | ---------------------- | ------------------------ |
+    | 75 | 100% | 2 | 100 |
+    | 70 | 90% | 1 | 90 |
+    | 65 | 80% | 1 | 80 |
+    | 60 | 70% | 1 | 70 |
+    | 55 | 60% | 1 | 60 |
+    | 50 | 50% | 1 | 50 |
+    | 40 | 40% | 0 | 40 |
+    | 30 | 30% | 0 | 30 |
+    | 20 | 20% | 0 | 20 |
+    | 10 | 10% | 0 | 10 |
+    <br>
 - Walmart
   - This guy sells medicines and shadow tools, but look out he charges extra based on your level. 
 - Amazon
