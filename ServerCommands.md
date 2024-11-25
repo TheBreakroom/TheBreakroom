@@ -26,3 +26,7 @@
    - this command will rezone your character (as long as you dont have enmity)
 - **!getstats**
    - This Command will give you a print out of player/trust/mob/pet stats.
+- **!wspoints**
+   - This Command will give you Weaponskill points print out on your main hand weapon.
+ - **!wspointsranged**
+   - This Command will give you weaponskill points print out on your Ranged weapons.
