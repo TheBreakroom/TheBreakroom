@@ -30,3 +30,5 @@
    - This Command will give you Weaponskill points print out on your main hand weapon.
  - **!wspointsranged**
    - This Command will give you weaponskill points print out on your Ranged weapons.
+- **!digstats**
+   - this command gives you a print out of your chocobo digging rank and skill.
