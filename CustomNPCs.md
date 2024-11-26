@@ -100,6 +100,15 @@
     | 19 | swift_etude<br>sage_etude<br>logical_etude<br>bewitching_etude<br>fire_carol<br>ice_carol<br>wind_carol<br>earth_carol<br>lightning_carol<br>water_carol<br>light_carol<br>dark_carol<br>fire_threnody<br>ice_threnody<br>wind_threnody<br>earth_threnody
     | 20 | ltng._threnody<br>water_threnody<br>light_threnody<br>dark_threnody<br>magic_finale<br>foe_lullaby<br>goddesss_hymnus<br>chocobo_mazurka<br>maidens_virelai<br>raptor_mazurka<br>foe_sirvente<br>foil<br>flurry<br>inundation}
 
+  - Ancient Bomb
+    - Give him 100k gil and he will give you a magic weapon.
+    - Kill 100 mobs with this weapon and return it to him and he will teach you skills.
+    - This will allow you to unlock the various unlockable REMA weaponskills.
+    - use !wskills to track your weapon skill unlock kills.
+    - everything with a later expansion release is reduced down to a 275 skill level (A rating skills at level 75) <br>
+    ![image](https://github.com/user-attachments/assets/54d6650d-3b6e-4191-906f-5a5c4cb76495)
+
+
 
 
 
