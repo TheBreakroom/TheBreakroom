@@ -49,6 +49,7 @@
     | Maze Rune 019 | WSD | +1% | 
     | Maze Rune 020 | ACC | +10 | 
     | Maze Rune 021 | RATT | +10 |
+    | Maze Rune 022 | GEAR HASTE | +1% |
     <br>
     
     - level Scaling:<br>
