@@ -33,4 +33,6 @@
 - **!digstats**
    - this command gives you a print out of your chocobo digging rank and skill.
 - **!wskills**
-   - this command tracks kills completed for unlocking weaponskills from Ancient Bomb in !breakroom 
+   - this command tracks kills completed for unlocking weaponskills from Ancient Bomb in !breakroom
+- **!trashcan**
+   - this command opens an empty shop for getting rid of all those flint stones you don't want. 
