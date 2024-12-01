@@ -13,6 +13,7 @@
   - Randomly chooses one of the 36 available mounts.
 - **!pvp**
    - transports you to the Sinister Reign arena for pvp combat
+   - The Sinister Reign arena also has August available as a striking dummy.
 - **!redteam**
    - sets the players allegiance to Sandoria for pvp
 - **!blueteam**
