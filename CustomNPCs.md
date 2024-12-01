@@ -74,11 +74,10 @@
 - Amazon
   - This guy is your Auction house access in the breakroom. <br>
    ![image](https://github.com/user-attachments/assets/c5ea5b31-979f-4f6d-bce4-29cf0e56576a)
-- Crystals
-  - Standard crystal shop with variable prices.
-     ![crystal](https://github.com/user-attachments/assets/d3450aeb-56c2-4a30-bfd8-3de9a3852ef2)
+
 - Magical Merch
-  - Shop for all your magical needs.
+  - Shop for all your magical needs.<br>
+![image](https://github.com/user-attachments/assets/9149501c-24f1-4893-b31d-237cf808e5a8)
 
   | Page | Spell |
   | ---- | ----- |
@@ -111,6 +110,9 @@
     - everything with a later expansion release is reduced down to a 275 skill level (A rating skills at level 75) <br>
     ![image](https://github.com/user-attachments/assets/54d6650d-3b6e-4191-906f-5a5c4cb76495)
 
+  - Maugle
+    - Currently Does nothing.<br>
+     ![image](https://github.com/user-attachments/assets/e0889e3c-438e-4e18-975c-5683afaedb8d)
 
 
 
