@@ -11,10 +11,12 @@
   ![image](https://github.com/user-attachments/assets/9c1dc3fa-43ed-46fa-83eb-b0a68e784dc5)
 
  
-- Homepoint Crystal
-  - This is a special homepoint crystal that has all teleports unlocked
-  - You will have to get a job to level 50 before it can be used.<br>
-  ![image](https://github.com/user-attachments/assets/fe05115f-467c-410f-aa23-47136958ebfb)
+- Survival Guide / Homepoint Crystal / Vortex
+  - Guide - Will unlock all the survival guides at level 50 and teleport you to them.
+  - HP - Will unlock all the crystal teleports at level 50 and teleport you to them.
+  - Vortex - Will be a gateway to future content.
+![image](https://github.com/user-attachments/assets/c8bc478e-005a-4846-b08a-9e91ee0c7d95)
+
 
  
 - Runes
